@@ -1,4 +1,4 @@
-# Book Management System
+# Bibilio Tech
 
 A simple web application built with Spring Boot and JSP for managing a library of books. Users can view, search, and filter books by title, author, or category.
 
